@@ -23,6 +23,7 @@ Smilo is an end-to-end digital clinic operating system. It features a scalable d
 ### ✈️ [TraveLedger](./TraveLedger/README.md)
 **Complete Accounting & Financial Management Platform**
 TraveLedger is a complete accounting and financial management web application built specifically for Travel Agencies, Tour Operators, and B2B Travel Agents. It handles everything a modern travel agency needs: tracking flight and hotel sales, managing payments, settling debts with suppliers, logging expenses, and providing a real-time view of business profits.
+- **Tech Stack:** Next.js, Java Spring Boot, PostgreSQL, Tailwind CSS.
 
 ---
 *Feel free to explore the individual project READMEs for deep dives into their system architectures, engineering challenges, and solutions.*
